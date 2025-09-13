@@ -1,4 +1,4 @@
-# Bike_Sales_Analysis-Using-Excel
+# Bicycle_Sales_Analysis-Using-Excel
 
 ![alt img](https://github.com/satyambasu/Bicycle_Sales_Analysis-Using-Excel/blob/7b458a8d584aaac0e56d117eab34a1b364ec9486/bicycle_sales%20analysis.png)
 
